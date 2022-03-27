@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Currently working on Atlas
-- Currently working at Ender
+- Currently working at Meritize
 
 [![Arnhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnhav&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
