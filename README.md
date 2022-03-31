@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- Currently working on Atlas
-- Currently working at Meritize
-
-[![Arnhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnhav&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+I am a full-stack Software Developer at Meritize and work on the Atlas Minecraft Server in my free time!
 
 <!--
 **arnhav11/arnhav11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
