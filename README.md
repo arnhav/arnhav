@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full-stack Software Developer at Meritize and work on the Atlas Minecraft Server in my free time!
+I am a full-stack Software Developer and work on the Atlas Minecraft Server in my free time!
 
 <!--
 **arnhav11/arnhav11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
